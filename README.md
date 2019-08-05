@@ -5,7 +5,7 @@ Narrative Visualization
 CS 498 Data Visualization
 Brian Hall Summer 2019
 
-Link to Narrative Visualization: https://github.com/bri-hall623/bri-hall623.github.io
+Link to Narrative Visualization: https://bri-hall623.github.io/
 
 
 Messaging. The purpose of this visualization is to look at various economic indicators from countries aroudn the world.  The various slides allow the user to see housing costs, consumer price index, and producer price index to compare the differences between countries in 2018.
